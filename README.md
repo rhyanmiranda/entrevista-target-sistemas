@@ -4,7 +4,7 @@ Entrevista Técnica da vaga de Estágio na Target Sistemas, com o foco em desenv
 
 ## Começando
 
-Desenvolvi as soluções usando JavaScript com o NodeJS
+Soluções desenvolvidas usando JavaScript com o NodeJS
 
 ### Pré-requisitos
 
